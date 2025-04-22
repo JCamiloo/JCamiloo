@@ -5,8 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=JCamiloo&label=Profile%20views&color=0e75b6&style=flat" alt="JCamiloo" /> 
 </p>
 
-- 🔭 I’m currently working at [Epam](https://github.com/epam).
-- 🌱 I’m currently learning Nest.js & Docker.
+- 🔭 I’m currently working at [Caseware](https://github.com/caseware).
 - 💬 Ask me about Angular, Ionic, Flutter and Node.
 - 📫 How to reach me: **jcamilo.osorio15@gmail.com**.
 - 👀 I’m interested in good practices for development.
